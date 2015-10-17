@@ -1,0 +1,3 @@
+# equipstor
+Admin
+1
